@@ -9,7 +9,7 @@
         "url": "http://github.com/Worlize/WebSocket-Node.git"
     },
     "engines": {
-        "node": ">=0.6.10"
+        "node": ">=0.10.19"
     },
     "config": {
       "verbose" : false
